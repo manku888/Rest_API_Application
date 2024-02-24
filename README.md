@@ -50,4 +50,6 @@ DELETE /books/{id}: Delete a book by ID.
 # IDE
 (https://github.com/manku888/Rest_API_Application/assets/119672884/bfe09af1-f0bf-47d5-8c07-88a423cd5fed)
 
+# get All Books
+![Screenshot (82)](https://github.com/manku888/Rest_API_Application/assets/119672884/5a334992-9e8a-47dc-b1bd-2b795b3a0f00)
 
