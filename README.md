@@ -66,6 +66,10 @@ DELETE /books/{id}: Delete a book by ID.
 ![Screenshot (86)](https://github.com/manku888/Rest_API_Application/assets/119672884/ba0d3d32-dd4f-47e3-aff5-914b7738b674)
 
 
+# After Upadte the Book
+![Screenshot (87)](https://github.com/manku888/Rest_API_Application/assets/119672884/c0f388e8-a78d-4479-9c8f-360908b833ad)
+
+
 
 
 
