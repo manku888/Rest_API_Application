@@ -45,3 +45,9 @@ GET /books/{id}: Retrieve details of a specific book by ID.
 POST /books: Add a new book.
 PUT /books/{id}: Update details of a specific book by ID.
 DELETE /books/{id}: Delete a book by ID.
+
+# Screenshot
+# IDE
+(https://github.com/manku888/Rest_API_Application/assets/119672884/bfe09af1-f0bf-47d5-8c07-88a423cd5fed)
+
+
