@@ -54,9 +54,21 @@ DELETE /books/{id}: Delete a book by ID.
 # Get All Books
 ![Screenshot (82)](https://github.com/manku888/Rest_API_Application/assets/119672884/5a334992-9e8a-47dc-b1bd-2b795b3a0f00)
 
+
 # Get Book ByID
 ![Screenshot (83)](https://github.com/manku888/Rest_API_Application/assets/119672884/f2f4732f-d98b-4735-955c-b4c05086637b)
 
 # Post Book
 ![Screenshot (84)](https://github.com/manku888/Rest_API_Application/assets/119672884/bfdeed7f-4cdf-46b3-99a7-6288c0d91f80)
+
+
+# Upadte Book ByID
+![Screenshot (86)](https://github.com/manku888/Rest_API_Application/assets/119672884/ba0d3d32-dd4f-47e3-aff5-914b7738b674)
+
+
+
+
+
+
+
 
