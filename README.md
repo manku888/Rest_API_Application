@@ -72,6 +72,10 @@ DELETE /books/{id}: Delete a book by ID.
 # Delete Book ByID
 ![Screenshot (85)](https://github.com/manku888/Rest_API_Application/assets/119672884/08971f82-f912-4667-bc2a-4a8cb683bc04)
 
+# Database
+# Author->
+![Screenshot (88)](https://github.com/manku888/Rest_API_Application/assets/119672884/25fbc6d8-55ab-4833-8a87-3ad66e3f12c8)
+
 
 
 
